@@ -21,7 +21,7 @@ Efter lunch när vi var inne på kontoret igen körde vi bordtennis ett tag. Vi 
  
 
 Sen körde jag lite tangent bords träning på [Maskinskrivning.se](https://maskinskrivning.se/).
-Se [Skrivmaskin](Skrivmaskin.md) för mina resultat.
+Se [Skrivmaskin](../Skrivmaskin.md) för mina resultat.
 
 
 Jag har skapat ett github konto vilket är var du läser denna dagbok.
