@@ -1,10 +1,6 @@
-# Erik
+# Erik praktik
 
-## Erik
+### Grejor
 
-1
-
-
-
-[Dagbok](Dagbok/Readme.md)
-[Skrivträning](Skrivmaskin.md)
+* [Dagbok](Dagbok/Readme.md)
+* [Skrivträning](Skrivmaskin.md)

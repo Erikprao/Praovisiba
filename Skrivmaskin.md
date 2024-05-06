@@ -1,5 +1,5 @@
 ## Resultat
-Jag har använt[Maskinskrivning.se](https://maskinskrivning.se/)
+Jag har använt [Maskinskrivning.se](https://maskinskrivning.se/)
 
 | Övning | Tid | Fel% | tryckning per min | Ord i min |
 | ------ | --- | ---- | ----------------- | --------- |
