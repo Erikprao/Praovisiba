@@ -10,3 +10,4 @@ Jag har använt [Maskinskrivning.se](https://maskinskrivning.se/)
 | 5      | 4m 52s | 1.9 | 86.5            | 17 |
 | 6      | 4m 29s | 4.5 | 93.9            | 19 |
 | 6      | 3m 17s | 2.4 | 128.2           | 26 |
+| 7      | 2m 55s | 4.2 | 114.5           | 23 |
