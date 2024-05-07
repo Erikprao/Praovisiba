@@ -20,3 +20,7 @@ sen var det dags för lunch. Återigen restaurang tegel fast den här gången var de
 Det smakade gott men lingonen passade inte till det andra enligt mig.
 
 
+Sen programerade jag lite och gjorde ett kalkylator test samt en liten hemsida med basic funktioner.
+
+
+Sen wrappade vi upp dagen 
