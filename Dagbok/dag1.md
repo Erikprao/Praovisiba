@@ -1,7 +1,5 @@
 # Dag 1
 
-#### Morgon
-
  Jag blev upphämtad 07:15. Vi åkte bil från göteborg till mölndal, ungefär samma väg som vi tar när vi ska till basketen.
 
 
