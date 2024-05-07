@@ -1,6 +1,7 @@
 ﻿@page
 @model IterAddWeb.Pages.CalcModel
 @{
+    ViewData["Title"] = "Calc";
 }
 
 
@@ -27,3 +28,25 @@
         <td>Chonkiest</td>
     </tr>
 </table>
+
+<form method="post">
+
+    <div>
+        Start value: <input asp-for="StartValue" />
+    </div>
+    <div>
+        Bump value: <input asp-for="BumpValue" />
+    </div>
+    <div>
+        Iterations: <input asp-for="Iterations" />
+    </div>
+
+    <button type="submit" class="btn btn-info">start</button>
+
+    @if(Model.Result is not null)
+    {
+        <div>
+            Resultatet är: @Model.Result
+        </div>
+    }
+</form>
