@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedLibTests", "SharedLib
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedLib", "SharedLib\SharedLib.csproj", "{A43E55CE-ABE7-480F-9373-D64F28D5DEF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterAddConsole", "IterAddConsole\IterAddConsole.csproj", "{A9F2C08C-9E1E-48CE-B9AF-4A4C7C9008D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IterAddConsole", "IterAddConsole\IterAddConsole.csproj", "{A9F2C08C-9E1E-48CE-B9AF-4A4C7C9008D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterAddWeb", "IterAddWeb\IterAddWeb.csproj", "{5F64DF5B-CC1E-4AD1-9EE0-37DD2F271CAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IterAddWeb", "IterAddWeb\IterAddWeb.csproj", "{5F64DF5B-CC1E-4AD1-9EE0-37DD2F271CAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
